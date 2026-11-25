@@ -1,0 +1,15 @@
+# Executables
+programme
+programme.exe
+*.out
+
+# Données générées localement (peuvent contenir des données personnelles)
+etudiants.dat
+
+# Fichiers temporaires et IDE
+*.o
+*.obj
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
